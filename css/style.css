@@ -1,0 +1,22 @@
+body{
+	margin: 100px;
+	padding: 0;
+}
+
+h1 {
+	display: block;
+	background-color: black;
+	color: white;
+	text-align: center;
+	width: 100%
+}
+
+.div-left {
+	display: block;
+	float: left;
+}
+
+.div-right {
+	display: block;
+	float: right;
+}
